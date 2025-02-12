@@ -87,6 +87,8 @@ _Include and describe your final solution here. It's also a good idea to summari
 
 The changes from the second solution to the final solution were minimal. As I mentioned, the idea was clear from the original graph, and the changes to make the reading even quicker and clearer were minimal. I changed the color to help the reader naturally associate the figures with the female population, added a comparison of the two time frames provided by the dataset, and included the state names for clarity. Visually, it is also a cleaner visualization.
 
+![image](https://github.com/user-attachments/assets/f76ec35e-8b35-4913-a8a4-19ab97b686a2)
+
 ## References
 1. Few, Stephen. 2009. Data Visualization Effectiveness Profile. Perceptual Edge.
 2. Vallée, Martin. 2018. "Why Are There Lefties?" YouTube video, 3:30.
