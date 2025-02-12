@@ -24,7 +24,7 @@ Regarding the original graph and the critique methodology, I find that while the
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
-![image](https://github.com/user-attachments/assets/8bcfbe53-781d-488b-af5b-c5058b0adbde)
+![image](https://github.com/user-attachments/assets/903aa07b-4a4f-415a-8760-131df086f931)
 
 Summarize changes:
 - Add the names of the states.
@@ -39,7 +39,11 @@ My first sketch was in tablue, and I did a map,  that even if it looks nice, I d
 
 ![image](https://github.com/user-attachments/assets/339de8c2-c045-4939-87b2-529ff3840e60)
 
-My second option, is to replicate what it works for the otiginal desing, and add  the second time frame, chage the colors and addd the name of the state. I  think thoese elements works to simply the understanding of the reader.
+My second option was a bubble diagram, where the size of the bubble represent the population density, and the label expose the avg age
+
+![image](https://github.com/user-attachments/assets/f42599cc-d4eb-4acc-8162-3ef93cb79b15)
+
+My thrid option, is to replicate what it works for the otiginal desing, and add  the second time frame, chage the colors and addd the name of the state. I  think thoese elements works to simply the understanding of the reader.
 
 ![image](https://github.com/user-attachments/assets/30d27f33-93b1-4aa2-ba11-6ae542858222)
 
