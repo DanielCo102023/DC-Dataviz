@@ -8,11 +8,10 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
+Original:
+![image](https://github.com/user-attachments/assets/08d467e4-1c0c-4339-a2b8-ada663a248da)
 https://www.reddit.com/r/dataisbeautiful/comments/wzx70h/average_age_of_women_at_first_marriage_by_state/
 
-![image](https://github.com/user-attachments/assets/08d467e4-1c0c-4339-a2b8-ada663a248da)
-
-![image](https://github.com/user-attachments/assets/8bcfbe53-781d-488b-af5b-c5058b0adbde)
 
 I chose this visualization because it compares three variables in a simple way, allowing us to get an idea of the story it aims to tell. It clearly presents a presumed relationship between the state, the average population density per mile, and the average age of marriage for women.
 
@@ -20,11 +19,14 @@ Although the graph does not explicitly show it, the data also includes two evalu
 
 Overall, the visualization is easy for users to understand. During the interview process, it became clear that one of the issues with the graph is that the timeframe of the data is not explicitly stated. Additionally, the reliability of the information is questionable, given that the original source is a Reddit post. I do not have access to the primary source of the data, so I will continue working with this source.
 
-Regarding the original graph and the critique methodology, I find that while the visualization is simple, it effectively conveys the message. I agree that it is important to consider the timeframe of the displayed data, and I would make the following changes:
+Regarding the original graph and the critique methodology, I find that while the visualization is simple, it effectively conveys the message.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
 
+![image](https://github.com/user-attachments/assets/8bcfbe53-781d-488b-af5b-c5058b0adbde)
+
+Summarize changes:
 - Add the names of the states.
 - Split the information into two graphs: one covering the timeframe from 2005 to 2010 and another from 2015 to 2019.
 - Change the color of the spheres to a shade commonly associated with the female gender, such as fuchsia.
