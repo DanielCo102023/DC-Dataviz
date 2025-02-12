@@ -63,19 +63,28 @@ Results:
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
 
-| Question | Interview 1 | Interview 2 |
+| Question | MSPPM First Year Student | MEIM First Year Student |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|   Can you tell me what you think this is?       | Showing the map and the table is the average age of first marriage by state             | The average age of marriage by state. I guess the color represent the population density. The darkerst it is the more populate the state is?             |
+|   Can you describe to me what this is telling you?       | This is telling me that on average the marriage age for women in the U.S is around  the 27 years old. It is doesnt really tell me much at first sight             | It is telling me that Massachussets and Rhode Island have the highest density of population in the country. I can't see very well the numbers. In the second graph I can clearly identify the relation between the population densityh and the age of marriage. I can see the trend.             |
+|   Is there anything you find surprising or confusing?       | In the second graph the trend is pretty clear. I don't know about the source of the data but the graph is telling me that the bigger the population density, the highest the average age of the first marriage for women. Makes sense to me though.             | This two variables are not usually presented together, so it is quite surprising see the results of the data. Even in the changes between the two time frames are not material, I can see the relation between the two variables. It is only confirm the trend and the story behid the data.             |
+|   Who do you think is the intended audience for this?       | I this it could be fertility policy makers or policy makers in general            | Maybe sociologiest who study the increasing age in marriage in the U.S. Or maybe conservatives political groups too, beacuase if women are getting marriage later, maybe they are not thinking about having soon, and that is something that usually are in the agenda of political parties.             |
+|   Is there anything you would change or do differently?       | Could you not repeat under the labels? In general I see it very clear. I would not use the map graph, the second one is way more clear.             | I would change how the title is frame, and I would highlighted the lables of the ages. I  think  those are important changes.              |
 
 Synthesis: 
+1. Use the second sketch as the solution. Change the avg age interval
+2. Change the tittle
+3. Bold the labels
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+A map proposal, although it seemed like a good idea, didn’t really tell the story that the initial graph aimed to convey. In redesigning, it’s important to maintain the author’s intent as the main focus, regardless of whether the changes are significant or far from the original design. If the initial design works well, the changes in the redesign can be minimal and still be useful.
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
+
+The changes from the second solution to the final solution were minimal. As I mentioned, the idea was clear from the original graph, and the changes to make the reading even quicker and clearer were minimal. I changed the color to help the reader naturally associate the figures with the female population, added a comparison of the two time frames provided by the dataset, and included the state names for clarity. Visually, it is also a cleaner visualization.
 
 ## References
 1. Few, Stephen. 2009. Data Visualization Effectiveness Profile. Perceptual Edge.
