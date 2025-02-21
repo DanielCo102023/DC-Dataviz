@@ -25,8 +25,6 @@ I have decided to structure my outline around the following points:
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
 | Know if the sections are well connected and the information is clear |As a producer, what information do you find relevant when evaluating a project?|
@@ -64,8 +62,6 @@ This is only the sketch for part II but for part III I have a lot of work in des
 
 # Moodboards / personas
 > If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
 This are the references for my report:
