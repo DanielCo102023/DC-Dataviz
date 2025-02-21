@@ -5,6 +5,9 @@
 
 Building on the outline from the previous submission and with the help of the interview and feedback sessions in class, I have been able to refine key aspects of my project's storytelling. This includes thinked about the story telling around Set Up, Conflict, and Resolution structure, identifying important data visualization ideas for the audience, and narrowing down the themes I want to explore.
 
+Here you can find my sketches in the Shorthand presentation
+https://carnegiemellon.shorthandstories.com/final-project/index.html
+
 # General Outline
 I have decided to structure my outline around the following points:
 
