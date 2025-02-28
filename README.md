@@ -3,6 +3,8 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
+![Foto G P](https://github.com/user-attachments/assets/c1e59051-a102-4cca-85f8-d643a6a39f72)
+
 # About me
 My name is Daniel Cortes and I make things happen!
 Although the popular saying goes, "If life gives you lemons, make lemonade," my perspective leans more towards: "Do not wait for life to give you lemons, go out and find them."
