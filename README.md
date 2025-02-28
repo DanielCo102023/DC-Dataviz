@@ -3,7 +3,7 @@
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
 
-![Foto G P](https://github.com/user-attachments/assets/c1e59051-a102-4cca-85f8-d643a6a39f72)
+![Small photo](https://github.com/user-attachments/assets/e64d6d83-6298-409d-811c-b93a70ce976f)
 
 # About me
 My name is Daniel Cortes and I make things happen!
