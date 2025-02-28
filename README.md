@@ -24,4 +24,4 @@ My goal is to better convey financial information or business pitches through my
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
-## Final project
+## Final project https://carnegiemellon.shorthandstories.com/final-project/index.html
