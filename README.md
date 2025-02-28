@@ -22,6 +22,6 @@ My goal is to better convey financial information or business pitches through my
 
 ## Assignment: [Visualizing Top 25 Ranking most valuable brands in the world](visualizing-government-debt)
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project https://carnegiemellon.shorthandstories.com/final-project/index.html
