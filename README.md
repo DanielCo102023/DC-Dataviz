@@ -1,4 +1,4 @@
-| [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README.md) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.
@@ -21,8 +21,6 @@ I am exited to learn about:
 My goal is to better convey financial information or business pitches through my visualizations. After all, I believe what we all seek is for our work to have a meaningful impact. 😊
 
 # Portfolio
-
-## Assignment: [Visualizing Top 25 Ranking most valuable brands in the world](visualizing-government-debt)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
