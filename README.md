@@ -22,6 +22,7 @@ My goal is to better convey financial information or business pitches through my
 
 # Portfolio
 
+## Tableau Excercises: [Tableau examples](demotablaeu.md)
 ## Assignment 3&4: [Critique by Design](critique-by-design.md)
 
 ## Final project: [Final Project - The Perks of Invest in International Content](https://carnegiemellon.shorthandstories.com/final-project/index.html)
